@@ -157,8 +157,6 @@ function draw() {
   
 
   drawSprites();
-  fill("blue");
-  text(mouseX+", "+mouseY,mouseX,mouseY);
 }
 
 function reset(){
